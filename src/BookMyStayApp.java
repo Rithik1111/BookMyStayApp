@@ -26,4 +26,3 @@ suiteRoom.displayRoomDetails();
 System.out.println("Available: "+suiteAvailability);
 }
 }
-
