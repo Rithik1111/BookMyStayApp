@@ -3,4 +3,3 @@ public DoubleRoom() {
 super(2,400,2500.0);
 }
 }
-
